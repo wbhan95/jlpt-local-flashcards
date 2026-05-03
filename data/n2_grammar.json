@@ -1,0 +1,494 @@
+[
+  {
+    "id": "n2-g-001",
+    "pattern": "～わけではない",
+    "summary": "not necessarily; it doesn't follow that …",
+    "explanation": "Denies that something is entirely or always true. You partially disagree with what might be inferred from context. Often used when softening or correcting an assumption.",
+    "examples": [
+      {
+        "japanese": "日本語が下手なわけではないが、まだ話すのが難しい。",
+        "translation": "It's not that my Japanese is bad, but speaking is still hard."
+      },
+      {
+        "japanese": "好きじゃないわけではない。ただ時間がないだけだ。",
+        "translation": "It's not that I don't like it—I just don't have time."
+      }
+    ],
+    "similar": [
+      "n2-g-031"
+    ]
+  },
+  {
+    "id": "n2-g-002",
+    "pattern": "～ばかりで（は）なく",
+    "summary": "not only … but also",
+    "explanation": "Adds another fact of similar or greater importance. 「ばかりで」 attaches to dictionary form verbs, い-adjectives, な-adjectives + な, or nouns + で.",
+    "examples": [
+      {
+        "japanese": "彼は頭がいいばかりでなく、運動も得意だ。",
+        "translation": "He's not only smart—he's also good at sports."
+      }
+    ]
+  },
+  {
+    "id": "n2-g-003",
+    "pattern": "～あまりに（も）／～あまりの～で",
+    "summary": "so much that … ; to the extent that …",
+    "explanation": "「あまりに」 before phrase, or 「あまりの＋N＋で」shows excess leading to a result (often negative or surprising).",
+    "examples": [
+      {
+        "japanese": "あまりに驚いて、一言も言えなかった。",
+        "translation": "I was so surprised I couldn't say a word."
+      }
+    ]
+  },
+  {
+    "id": "n2-g-004",
+    "pattern": "～とはいえ",
+    "summary": "having said that; though; albeit",
+    "explanation": "After stating a concession or fact (often with と), you partially walk it back or add a limitation. Formal register; resembles 「とはいっても」, often used in paragraphs and essays.",
+    "examples": [
+      {
+        "japanese": "冬とはいえ、今年はそれほど寒くない。",
+        "translation": "It's winter, but it's not especially cold this year."
+      },
+      {
+        "japanese": "安いとはいえ、品質にも注意したい。",
+        "translation": "It's cheap—but I still want to watch quality."
+      }
+    ]
+  },
+  {
+    "id": "n2-g-005",
+    "pattern": "～一方（で）",
+    "summary": "on the other hand; while … meanwhile …",
+    "explanation": "Contrasts two coexisting tendencies: A が進む一方で B も増える describes parallel change. 「一方だけ」 emphasizes only one movement (continues to increase/decrease alone).",
+    "examples": [
+      {
+        "japanese": "便利になる一方で、情報漏えいも問題になっている。",
+        "translation": "Things get more convenient, but information leaks are also becoming an issue."
+      },
+      {
+        "japanese": "売り上げは増える一方だ。",
+        "translation": "Sales keep climbing (nothing but increase)."
+      }
+    ],
+    "similar": [
+      "n2-g-011"
+    ]
+  },
+  {
+    "id": "n2-g-006",
+    "pattern": "～とたん（に）",
+    "summary": "the instant … ; just as … (then unexpectedly)",
+    "explanation": "Attached to plain past tense, marks the very moment something happened—often followed by a sudden or unintended result.",
+    "examples": [
+      {
+        "japanese": "部屋を出たとたんに、雨が降り出した。",
+        "translation": "The moment I left the room, it started to rain."
+      },
+      {
+        "japanese": "名前を聞いたとたん、顔色が変わった。",
+        "translation": "As soon as he heard the name, his expression changed."
+      }
+    ],
+    "similar": [
+      "n2-g-007"
+    ]
+  },
+  {
+    "id": "n2-g-007",
+    "pattern": "～か～ないかのうちに",
+    "summary": "hardly/scarcely … when … ; no sooner than …",
+    "explanation": "Two parallel verb phrases (dictionary form + negative + same verb stem + ないかのうちに) emphasize immediacy—the second clause follows almost simultaneously.",
+    "examples": [
+      {
+        "japanese": "席に着くか着かないかのうちに、試合が始まった。",
+        "translation": "Hardly had I taken my seat when the match began."
+      }
+    ],
+    "similar": [
+      "n2-g-006"
+    ]
+  },
+  {
+    "id": "n2-g-008",
+    "pattern": "～において／における",
+    "summary": "in; at; concerning (setting, field, abstraction)",
+    "explanation": "Formal marker of place or abstract domain: 「教育において」「この点における」. 「における」 adnominal form before noun: 「日本における状況」.",
+    "examples": [
+      {
+        "japanese": "国際問題において、対話が重要だ。",
+        "translation": "In international affairs, dialogue is important."
+      },
+      {
+        "japanese": "現代における家族のあり方について話し合った。",
+        "translation": "We discussed what families are like today."
+      }
+    ],
+    "similar": [
+      "n2-g-015"
+    ]
+  },
+  {
+    "id": "n2-g-009",
+    "pattern": "～に伴って／に伴い",
+    "summary": "accompanying; as … ; together with …",
+    "explanation": "Shows change B that comes along with A (often causal or chronological). Newspaper and business Japanese; similar but more formal/written than にしたがって in some usages.",
+    "examples": [
+      {
+        "japanese": "人口の増加に伴い、インフラ整備が急がれる。",
+        "translation": "With population growth, infrastructure needs to be built quickly."
+      }
+    ],
+    "similar": [
+      "n2-g-010"
+    ]
+  },
+  {
+    "id": "n2-g-010",
+    "pattern": "～につれて",
+    "summary": "as … ; progressively with …",
+    "explanation": "Indicates parallel change—usually proportional (as A increases/develops, B does too). Spoken and written neutral register.",
+    "examples": [
+      {
+        "japanese": "年を取るにつれて、夜更かしがきつくなる。",
+        "translation": "As I age, staying up late gets harder."
+      },
+      {
+        "japanese": "春が進むにつれて、花粉が増えてきた。",
+        "translation": "As spring advanced, more pollen appeared."
+      }
+    ],
+    "similar": [
+      "n2-g-009"
+    ]
+  },
+  {
+    "id": "n2-g-011",
+    "pattern": "～に反して",
+    "summary": "contrary to; against (expectation, rule, trend)",
+    "explanation": "Marks conflict with prediction, advice, or norm. Compare に対して（contrast/directed at） versus に反して（opposition).",
+    "examples": [
+      {
+        "japanese": "予報に反して、午後から晴れた。",
+        "translation": "Contrary to the forecast, it cleared up in the afternoon."
+      }
+    ],
+    "similar": [
+      "n2-g-005"
+    ]
+  },
+  {
+    "id": "n2-g-012",
+    "pattern": "～にほかならない",
+    "summary": "nothing other than … ; must be exactly …",
+    "explanation": "Strong affirmation of cause or essence: 「努力の結果にほかならない」「偶然にほかならない」(common in formal conclusion). Ends sentence with copula + にほかならない.",
+    "examples": [
+      {
+        "japanese": "この成功は、チームワークの勝利にほかならない。",
+        "translation": "This success is nothing less than a victory for teamwork."
+      }
+    ],
+    "similar": [
+      "n2-g-031"
+    ]
+  },
+  {
+    "id": "n2-g-013",
+    "pattern": "～をきっかけに／を契機に",
+    "summary": "taking … as an opportunity/catalyst",
+    "explanation": "An event sparks a lasting change—starting to study abroad, quitting a job, revising rules. 「契機」 is stiff/written kanji-heavy variant.",
+    "examples": [
+      {
+        "japanese": "彼のひとことをきっかけに、向き不向きについて考えた。",
+        "translation": "Something he said prompted me to think about aptitude."
+      }
+    ]
+  },
+  {
+    "id": "n2-g-014",
+    "pattern": "～末（に）／～末の",
+    "summary": "after/in the course of … (eventually)",
+    "explanation": "Long process completed: 「話し合いの末に」「検討の末の決定». Implies hesitation, discussion, struggle before conclusion.",
+    "examples": [
+      {
+        "japanese": "長い話し合いの末、折り合いがついた。",
+        "translation": "After long talks, they reached a compromise."
+      }
+    ]
+  },
+  {
+    "id": "n2-g-015",
+    "pattern": "～にわたって／にわたり",
+    "summary": "throughout; over (space or time span)",
+    "explanation": "Covers range: 「全国にわたる」「三時間にわたって」. Adnominal にわたる before noun.",
+    "examples": [
+      {
+        "japanese": "台風は広い範囲にわたって被害を出した。",
+        "translation": "The typhoon caused damage over a wide area."
+      }
+    ],
+    "similar": [
+      "n2-g-008"
+    ]
+  },
+  {
+    "id": "n2-g-016",
+    "pattern": "～をはじめ（として）",
+    "summary": "including … as the leading example; … and others",
+    "explanation": "Lists representative first item: 「社長をはじめ、役員一同」. The lead member is typically most prominent.",
+    "examples": [
+      {
+        "japanese": "京都をはじめ、関西は観光地が多い。",
+        "translation": "Kyoto among others—Kansai has many tourist spots."
+      }
+    ]
+  },
+  {
+    "id": "n2-g-017",
+    "pattern": "～をもとに（して）",
+    "summary": "based on; using … as raw material / source",
+    "explanation": "Source for creation or judgment: 「データをもとに」「体験をもとにした小説」.",
+    "examples": [
+      {
+        "japanese": "アンケート結果をもとに、方針を見直す。",
+        "translation": "We'll revise policy based on the survey results."
+      }
+    ],
+    "similar": [
+      "n2-g-019"
+    ]
+  },
+  {
+    "id": "n2-g-018",
+    "pattern": "～に応じて",
+    "summary": "depending on; in response to; according to",
+    "explanation": "Conditional adjustment—price changes with demand, wording changes with audience. 「に応じ」 connects nouns modestly.",
+    "examples": [
+      {
+        "japanese": "季節に応じて、メニューを変える。",
+        "translation": "We change the menu according to the season."
+      },
+      {
+        "japanese": "能力に応じて配慮してください。",
+        "translation": "Please accommodate learners according to their ability."
+      }
+    ],
+    "similar": [
+      "n2-g-021"
+    ]
+  },
+  {
+    "id": "n2-g-019",
+    "pattern": "～を踏まえて",
+    "summary": "taking … into consideration; grounded in …",
+    "explanation": "Plan or judge after surveying facts/rules: 「現状を踏まえて」「意見を踏まえ対応する」.",
+    "examples": [
+      {
+        "japanese": "これまでの議論を踏まえて判断する。",
+        "translation": "We'll decide taking prior discussion into account."
+      }
+    ],
+    "similar": [
+      "n2-g-017"
+    ]
+  },
+  {
+    "id": "n2-g-020",
+    "pattern": "～際に／～際には",
+    "summary": "at the occasion/time of … ; when …",
+    "explanation": "Formal synonym of とき in procedures: 「入会の際」「出発際に確認」. 「に際して」 also common for larger events.",
+    "examples": [
+      {
+        "japanese": "お帰りの際、電気を消してください。",
+        "translation": "When leaving, please turn off the lights."
+      }
+    ]
+  },
+  {
+    "id": "n2-g-021",
+    "pattern": "～によっては",
+    "summary": "depending on the case; for some …",
+    "explanation": "Highlights subsets where something differs: 「人によっては」 suggests not everyone—but some people.",
+    "examples": [
+      {
+        "japanese": "使い方によっては、時間がもっと短くなる。",
+        "translation": "Depending how you use it, you can save even more time."
+      }
+    ],
+    "similar": [
+      "n2-g-018"
+    ]
+  },
+  {
+    "id": "n2-g-022",
+    "pattern": "～てしょうがない／～て仕方ない",
+    "summary": "can't help (feeling) … ; … overwhelmingly",
+    "explanation": "Attaches to 〜て from psychological predicates: unbearable longing, annoyance you can't shake, embarrassment. 「気になって仕方ない」 overlaps.",
+    "examples": [
+      {
+        "japanese": "故郷が恋しくてしょうがない。",
+        "translation": "I miss my hometown unbearably."
+      },
+      {
+        "japanese": "結果が気になって仕方なかった。",
+        "translation": "I couldn't stop wondering about the result."
+      }
+    ]
+  },
+  {
+    "id": "n2-g-023",
+    "pattern": "～くらいなら／～なら（むしろ）～",
+    "summary": "(くらいなら) would rather … than … ; if forced, prefer …",
+    "explanation": "Compares undesirable options—the second is chosen as lesser evil.",
+    "examples": [
+      {
+        "japanese": "無理につき合うくらいなら、別れたほうがいい。",
+        "translation": "If you'd have to force the relationship, better to split up."
+      }
+    ],
+    "similar": [
+      "n2-g-024"
+    ]
+  },
+  {
+    "id": "n2-g-024",
+    "pattern": "～ないことには",
+    "summary": "unless … (not happening); unless we …",
+    "explanation": "Double negative: unless A happens/proves true, bad outcome B persists or goal isn't met.",
+    "examples": [
+      {
+        "japanese": "原因がわからないことには対策できない。",
+        "translation": "We can't take countermeasures unless we find the cause."
+      }
+    ],
+    "similar": [
+      "n2-g-023"
+    ]
+  },
+  {
+    "id": "n2-g-025",
+    "pattern": "～かねない",
+    "summary": "might well (bad outcome); not impossible that …",
+    "explanation": "Attached to verb stem for uneasy prediction—warns of risk. Opposite nuance to かねる (be unable to do—polite refusal).",
+    "examples": [
+      {
+        "japanese": "油断すれば、再発しかねない。",
+        "translation": "If you're careless, it could well recur."
+      }
+    ],
+    "similar": [
+      "n2-g-026"
+    ]
+  },
+  {
+    "id": "n2-g-026",
+    "pattern": "～かねる",
+    "summary": "cannot (do); hard to (polite refusal / difficulty)",
+    "explanation": "Business-humble: 「お答えしかねます」. Not the same as かねない.",
+    "examples": [
+      {
+        "japanese": "個人的な理由はお答えしかねます。",
+        "translation": "I'm afraid I cannot answer regarding personal reasons."
+      }
+    ],
+    "similar": [
+      "n2-g-025"
+    ]
+  },
+  {
+    "id": "n2-g-027",
+    "pattern": "～得る／～得ない",
+    "summary": "can/cannot happen; possible/impossible (objective)",
+    "explanation": "Potential suffix: あり得る scenario vs あり得ない（strong denial). Verb stem + える／えない.",
+    "examples": [
+      {
+        "japanese": "どんな誤りも起こり得る。",
+        "translation": "Any mistake could occur."
+      },
+      {
+        "japanese": "そんな結果はあり得なかった。",
+        "translation": "Such an outcome was impossible."
+      }
+    ],
+    "similar": [
+      "n2-g-028"
+    ]
+  },
+  {
+    "id": "n2-g-028",
+    "pattern": "～がたい",
+    "summary": "hard to … ; hardly possible to … (psychologically)",
+    "explanation": "Verb stem + がたい: difficult because of subjective weight—忘れがたい, 信じがたい—not physical difficulty.",
+    "examples": [
+      {
+        "japanese": "彼の親切は忘れがたい。",
+        "translation": "I'll hardly forget his kindness."
+      }
+    ],
+    "similar": [
+      "n2-g-027"
+    ]
+  },
+  {
+    "id": "n2-g-029",
+    "pattern": "～気味／～げ",
+    "summary": "〜っぽい inclination; seeming ~ (気味／げ)",
+    "explanation": "「風邪気味」slightly sick. 「〜げ」(な) from adjective stems: 「さびしげ」(lonely-looking). Subtle nuance of appearance/atmosphere.",
+    "examples": [
+      {
+        "japanese": "最近、睡眠不足気味だ。",
+        "translation": "Lately I've been a bit sleep-deprived."
+      },
+      {
+        "japanese": "不思議げな表情をしていた。",
+        "translation": "She wore a puzzled expression."
+      }
+    ]
+  },
+  {
+    "id": "n2-g-030",
+    "pattern": "～まい",
+    "summary": "will not … (resolve); probably not … ; I intend not …",
+    "explanation": "Attached to dictionary form of verbs: expresses decision or negative volition about the future—stronger refusal than mere しない. With third-person subjects it can imply prediction (「〜まい／〜だろう」).",
+    "examples": [
+      {
+        "japanese": "二度と嘘はつくまいと思っている。",
+        "translation": "I've resolved never to lie again."
+      },
+      {
+        "japanese": "彼は自分からは謝るまい。",
+        "translation": "(I doubt) he'll ever apologize first—on his own initiative."
+      }
+    ]
+  },
+  {
+    "id": "n2-g-031",
+    "pattern": "～ないものでもない",
+    "summary": "not that … isn't possible ; one could … (soft concession)",
+    "explanation": "Double-negative hedge: denies absoluteness—you grant it might occasionally work.",
+    "examples": [
+      {
+        "japanese": "厳しく言えば、彼にも責任がないでもない。",
+        "translation": "Strictly speaking, he isn't entirely free of blame either."
+      }
+    ],
+    "similar": [
+      "n2-g-001",
+      "n2-g-012"
+    ]
+  },
+  {
+    "id": "n2-g-032",
+    "pattern": "～ものか",
+    "summary": "as if …! ; there's no way that … !(defiant)",
+    "explanation": "Rhetorical question showing rejection or contempt after dictionary verb: 「許すものか」 (never forgive). Feminine/old 「〜ものですか」 is similar.",
+    "examples": [
+      {
+        "japanese": "あんな人の言うことなど聞くものか。",
+        "translation": "As if I'd listen to someone like that!"
+      }
+    ]
+  }
+]
