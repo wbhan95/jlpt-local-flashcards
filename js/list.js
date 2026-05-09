@@ -25,7 +25,7 @@ async function render() {
     const done = completed.has(item.id);
     const a = document.createElement('a');
     a.className = 'list-item' + (done ? ' done' : '');
-    a.href = `study.html?set=${encodeURIComponent(set)}`;
+    a.href = `study.html?set=${encodeURIComponent(set)}&id=${encodeURIComponent(item.id)}`;
 
     if (set === 'grammar') {
       const jp = document.createElement('span');

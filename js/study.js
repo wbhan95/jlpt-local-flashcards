@@ -3,6 +3,7 @@ import { addCompleted, getCompletedIds } from './storage.js';
 
 const params = new URLSearchParams(location.search);
 const set = params.get('set');
+const startId = params.get('id');
 
 if (set !== 'grammar' && set !== 'vocabulary') {
   location.href = 'index.html';
@@ -24,7 +25,8 @@ async function init() {
   const completed = getCompletedIds(set);
   /** @type {typeof itemsRaw} */
   let queue = itemsRaw.filter((it) => !completed.has(it.id));
-  let index = 0;
+  let index = startId ? queue.findIndex((it) => it.id === startId) : 0;
+  if (index < 0) index = 0;
 
   function updateProgress() {
     if (progressEl) {
